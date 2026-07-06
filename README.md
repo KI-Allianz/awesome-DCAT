@@ -20,7 +20,9 @@
 ## Catalog platforms & stacks
 
 - **[piveau](https://gitlab.com/piveau)** – DCAT/DCAT‑AP‑based data management platform for public‑sector open data. 
-    - **[piveau‑hub](https://github.com/piveau-data/piveau-hub)** – Open Data hub service for the piveau stack (registry, search, APIs). 
+    - **[piveau‑hub](https://gitlab.com/piveau/hub)** – Open Data hub service for the piveau stack (registry, search, APIs).
+    - **[piveau‑consus](https://gitlab.com/piveau/consus)** – Open Data meta-data harvesting service for the piveau stack.
+    - **[piveau‑ui](https://gitlab.com/piveau/ui)** – Vue based Web-UI for piveau.
 - **[open.bydata competence center / portal](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center/open.bydata)** – Bavaria’s open data portal and competence‑centre implementation based on piveau. 
 - **[GovDataPortal](https://github.com/GovDataOfficial/GovDataPortal)** – Source of the German national open data portal using DCAT‑AP.de and CKAN. 
 - **[Piveau NextJS](https://github.com/KI-Allianz/piveau.nextjs)** – Next JS Frontend for Piveau developed for the KI-Allianz BW
@@ -68,7 +70,7 @@
 - **[dcat (data.gov.be export)](https://github.com/Fedict/dcat)** – DCAT‑AP export of the Belgian open data portal. 
 - **[dcat-ap-pipeline](https://github.com/tenforce/dcat-ap-pipeline)** – Pipeline to generate DCAT‑AP records from Excel templates. 
 - **[inspire-dcat-de-bridge](https://github.com/GovDataOfficial/inspire-dcat-de-bridge)** – Bridge between CKAN and German geospatial catalog services via DCAT‑AP.de. 
-- **[CSW2DCAT](https://github.com/GovDataOfficial/CSW2DCAT)** – Tool converting CSW catalogs to DCAT‑AP.de RDF. 
+- **[CSW2DCAT](https://github.com/GovDataOfficial/CSW2DCAT)** – Tool converting CSW catalogs to DCAT‑AP.de RDF.
 
 ***
 
