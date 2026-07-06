@@ -19,11 +19,13 @@
 
 ## Catalog platforms & stacks
 
-- **[piveau (GitLab org)](https://gitlab.com/piveau)** – DCAT/DCAT‑AP‑based data management platform for public‑sector open data. 
-- **[piveau‑hub](https://github.com/piveau-data/piveau-hub)** – Open Data hub service for the piveau stack (registry, search, APIs). 
+- **[piveau](https://gitlab.com/piveau)** – DCAT/DCAT‑AP‑based data management platform for public‑sector open data. 
+    - **[piveau‑hub](https://github.com/piveau-data/piveau-hub)** – Open Data hub service for the piveau stack (registry, search, APIs). 
 - **[open.bydata competence center / portal](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center/open.bydata)** – Bavaria’s open data portal and competence‑centre implementation based on piveau. 
 - **[GovDataPortal](https://github.com/GovDataOfficial/GovDataPortal)** – Source of the German national open data portal using DCAT‑AP.de and CKAN. 
-- **[KI‑Allianz (GitHub org)](https://github.com/KI-Allianz)** – Open‑source modules for the KI‑Allianz BW data platform (catalog, search, quality, interoperability). 
+- **[Piveau NextJS](https://github.com/KI-Allianz/piveau.nextjs)** – Next JS Frontend for Piveau developed for the KI-Allianz BW
+- **[Daanse Dashboard](https://github.com/eclipse-daanse/org.eclipse.daanse.board.app)** - Smart City Dashboard that displays DCAT-AP via SPARQL endpoint
+
 
 ***
 
