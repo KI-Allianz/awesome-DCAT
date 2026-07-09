@@ -15,7 +15,7 @@
 - [Validation & quality](#validation--quality)  
 - [Meta resources & awesome lists](#meta-resources--awesome-lists)
 
-***
+
 
 ## Catalog platforms & stacks
 
@@ -27,11 +27,14 @@
 - **[GovDataPortal](https://github.com/GovDataOfficial/GovDataPortal)** – Source of the German national open data portal using DCAT‑AP.de and CKAN. 
 - **[Piveau NextJS](https://github.com/KI-Allianz/piveau.nextjs)** – Next JS Frontend for Piveau developed for the KI-Allianz BW
 - **[Daanse Dashboard](https://github.com/eclipse-daanse/org.eclipse.daanse.board.app)** - Smart City Dashboard that displays DCAT-AP via SPARQL endpoint
+- **[Fair Data Point](https://github.com/FAIRDataTeam/FAIRDataPoint/)** - Data Catalog Reference Implementation with DCAT API and Web Client
 
+## Proof of Concepts/Pilots
+- **[EOSC MLDCAT Pilot](https://github.com/SEMICeu/EOSC-MLDCAT-AP-Pilot/)** - MLDCAT Pilot for EOSC
+  
 
-***
-
-## CKAN extensions & integrations
+## DCAT extensions & integrations into other Data Catalog Platforms
+### CKAN
 
 - **[ckanext-dcat](https://github.com/ckan/ckanext-dcat)** – Core CKAN extension for DCAT/DCAT‑AP RDF exposure, harvesting and schemas. 
 - **[ckanext-dcatde](https://github.com/GovDataOfficial/ckanext-dcatde)** – CKAN plugin implementing the German DCAT‑AP.de profile.
@@ -39,7 +42,9 @@
 - **[ckanext-dcatde_berlin](https://github.com/berlinonline/ckanext-dcatde_berlin)** – DCAT‑AP.de profile implementation for Berlin’s Datenregister. 
 - **[ckanext-healthdcat](https://github.com/Health-RI/ckanext-healthdcat)** – CKAN extension fork to support HealthDCAT‑AP via ckanext‑dcat. 
 - **[ckanext-schemingdcat](https://github.com/BNELab/ckanext-schemingdcat)** – Improved CKAN scheming plugin with DCAT, DCAT‑AP and GeoDCAT‑AP schemas.
-***
+
+
+
 
 ## DCAT‑AP profiles & specs
 
@@ -52,7 +57,7 @@
 - **[HealthDCAT‑AP.de](https://github.com/HealthDCAT-AP-de/healthdcat-ap.de)** – HealthDCAT‑AP.de application profile for German health data catalogs. 
 - **[healthDCAT-AP controlled vocabularies](https://github.com/healthDCAT-AP/Controlled-vocabularies)** – Controlled vocabularies for HealthDCAT‑AP metadata. 
 
-***
+
 
 ## Editors, portals & UIs
 
