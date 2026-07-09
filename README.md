@@ -57,7 +57,8 @@
 - **[HealthDCAT‑AP.de](https://github.com/HealthDCAT-AP-de/healthdcat-ap.de)** – HealthDCAT‑AP.de application profile for German health data catalogs. 
 - **[healthDCAT-AP controlled vocabularies](https://github.com/healthDCAT-AP/Controlled-vocabularies)** – Controlled vocabularies for HealthDCAT‑AP metadata. 
 
-
+## Programmatic binding, APIs
+  - **[DCAT-AP Plus](https://github.com/nfdi-de/dcat-ap-plus) - A domain-agnostic extension of the DCAT Application Profile with LinkML bindings
 
 ## Editors, portals & UIs
 
@@ -67,7 +68,6 @@
 - **[piveau‑hub UI and services](https://github.com/piveau-data/piveau-hub)** – REST APIs and UI for DCAT‑based catalogs. 
 - **[open.bydata portal app](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center/open.bydata)** – Vue/Node app powering Bavaria’s DCAT‑style open data portal. 
 
-***
 
 ## Conversion, harvesting & pipelines
 
@@ -77,7 +77,7 @@
 - **[inspire-dcat-de-bridge](https://github.com/GovDataOfficial/inspire-dcat-de-bridge)** – Bridge between CKAN and German geospatial catalog services via DCAT‑AP.de. 
 - **[CSW2DCAT](https://github.com/GovDataOfficial/CSW2DCAT)** – Tool converting CSW catalogs to DCAT‑AP.de RDF.
 
-***
+
 
 ## Validation & quality
 
@@ -86,7 +86,7 @@
 - **[DCAT Catalog Check](https://gitlab.opencode.de/ZIT-SH/DCAT-Catalog-Check)** – Schleswig‑Holstein DCAT catalog monitor / validator. 
 - **[GeoDCAT OGC API validation tooling](https://github.com/ogcincubator/geodcat-ogcapi-records)** – GeoDCAT/DCAT‑AP conformance tests and validation examples.
 
-***
+
 
 ## Meta resources & awesome lists
 
