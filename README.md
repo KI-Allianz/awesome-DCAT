@@ -58,7 +58,7 @@
 - **[healthDCAT-AP controlled vocabularies](https://github.com/healthDCAT-AP/Controlled-vocabularies)** – Controlled vocabularies for HealthDCAT‑AP metadata. 
 
 ## Programmatic binding, APIs
-  - **[DCAT-AP Plus](https://github.com/nfdi-de/dcat-ap-plus) - A domain-agnostic extension of the DCAT Application Profile with LinkML bindings
+  - **[DCAT-AP Plus](https://github.com/nfdi-de/dcat-ap-plus)** - A domain-agnostic extension of the DCAT Application Profile with LinkML bindings
 
 ## Editors, portals & UIs
 
